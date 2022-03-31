@@ -1,0 +1,32 @@
+.login{
+    border: 1px black solid;
+    width: 400px;
+    height: 610px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+
+    
+}
+.inputs{
+    width: 350px;
+    height: 38px;
+    
+}
+#creatac{
+    width: 350px;
+    height: 40px;
+    background-color: #459B76;
+    color: white;
+}
+.mail{
+    
+    text-decoration: none;
+    color: blue;
+}
+.mail1{
+    text-align: left;
+    margin-left: 20px;
+}
+
+
